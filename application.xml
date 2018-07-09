@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/30.0">
+  <id>SWCBuilder</id>
+  <versionNumber>1.0</versionNumber>
+  <filename>SWCBuilder</filename>
+  <name>SWCBuilder</name>
+  <initialWindow>
+    <title>SWCBuilder</title>
+    <content>SWCBuilder.swf</content>
+    <systemChrome>none</systemChrome>
+    <transparent>true</transparent>
+    <visible>true</visible>
+    <minimizable>true</minimizable>
+    <maximizable>true</maximizable>
+    <resizable>true</resizable>
+    <renderMode>gpu</renderMode>
+    <x>300</x>
+    <y>200</y>
+    <width>1920</width>
+    <height>1100</height>
+  </initialWindow>
+  <supportedProfiles>extendedDesktop</supportedProfiles>
+  <!-- 
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+	-->
+</application>
